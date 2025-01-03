@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f9e0ff;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    padding: 20px;
+}
+h1 {
+    color: #a64ac9;
+    font-size: 3rem;
+}
+p {
+    color: #555;
+    font-size: 1.5rem;
+}
+.birthday-image {
+    width: 300px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+button {
+    background-color: #a64ac9;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: #d185fc;
+}
